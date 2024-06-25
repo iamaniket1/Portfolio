@@ -3,7 +3,7 @@ import { animate, motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 import { BsArrowUpRight } from "react-icons/bs";
 import me from "../assets/logo2.png";
-import CV from "../assets/Aniket's Resume latest.pdf";
+import CV from "../assets/Aniket_s_Resume react.pdf";
 function Home() {
   // const clientCount = useRef(null);
   // const animationClientsCount = () => {
@@ -39,7 +39,7 @@ function Home() {
       <section>
         <div>
           <motion.h1 {...animation.h1}>
-            Hey, I am <br /> Aniket Srivastava <br /> FRONT END DEVELOPER
+            Hey, I am <br /> Aniket Srivastava
           </motion.h1>
 
           <Typewriter
