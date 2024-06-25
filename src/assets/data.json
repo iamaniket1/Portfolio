@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2022",
+      "title": "GEMINI 2.0",
+      "description": "Unlock the power of Gemini in a whole new way! This user-friendly clone brings advanced AI to a familiar interface. Ask questions, explore information, and have engaging conversations - all at your fingertips.",
+      "url": "https://gemini20-qla2l6vj1-aniket-srivastavas-projects.vercel.app/",
+      "imgSrc": "https://bigblue.academy/images/image/blog/gemini-ai/bigblue-(1).jpg"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "FLAVORO FOODIEEE",
+      "description": "Flavoro Foodieee: Your flavor adventure starts here! Discover delicious eats, explore menus, and order from your favorite restaurants - all in one app. It's like having a world of food at your fingertips.",
+      "url": "https://flavoro-foodieeee.vercel.app/",
+      "imgSrc": "https://s3-alpha.figma.com/hub/file/2648127016/00f51a22-da62-425a-9b4b-ce07681f0fab-cover.png"
+    },
+    {
+      "date": "15/10/2022",
+      "title": "SHOE SHOP",
+      "description": "Find your perfect fit with our curated selection of footwear for every style and occasion. Browse, shop, and strut your stuff - all from the comfort of your home (or phone!).",
+      "url": "https://filtered-shop-pnzkqk857-aniket-srivastavas-projects.vercel.app",
+      "imgSrc": "https://img.freepik.com/premium-vector/shoes-mobile-application-design_752850-133.jpg"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "VIDEO HUB",
+      "description": "Unleash a visual feast! Explore my curated video gallery. Dive into stunning visuals, captivating stories, and endless entertainment - all just a click away.",
+      "url": "https://react-video-orn7n9fux-aniket-srivastavas-projects.vercel.app ",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "TECHY STAR",
+      "description": "Launch into the future with TechyStar!  This app connects you with cutting-edge tech, news, and resources. Learn, explore, and level up your tech game - all in one place.",
+      "url": "https://reactfirst-k6baq281g-aniket-srivastavas-projects.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "I craft impactful experiences in Web Development. Explore my portfolio to see my skills in action through React js. Let's collaborate and bring your vision to life!",
+      "url": "/",
+      "imgSrc": "https://avatars.githubusercontent.com/u/109760206?v=4"
+    }
+  ],
+  "skills": [
+    { "skill": "HTML, CSS" },
+    { "skill": "JAVASCRIPT" },
+    { "skill": "REACT JS, REDUX" },
+    { "skill": "TAILWIND CSS, SASS" },
+    { "skill": "GIT, GITHUB" }
+  ]
+}
